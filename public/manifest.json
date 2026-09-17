@@ -1,0 +1,10 @@
+{
+  "name": "El Método White",
+  "short_name": "Método White",
+  "description": "Coaching nutricional y deportivo premium",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fcfcfc",
+  "theme_color": "#1c1917",
+  "icons": []
+}
